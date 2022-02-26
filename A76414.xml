@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves from Rome, or A true relation of the conference which the Pope held with three of his chiefe cardinals, and a Dominican fryer, in his palace at Rome, against Bohemia, and these parts of England, Scotland, and Ireland. At which time a letter was forged from the Emperour to the King of France. And all the proceedings in their discourse, and the sharpe tants that the Pope received from his Ieaster at the same time : and the issue thereof. There were in this conference, 1 the Pope himselfe. 2 Burghesius. 3 Cæsario. 4 Romanio. 5 a Dominican fryer. 6 the Popes ieaster.</title>
+            <title>Newes from Rome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76414</idno>
+            <idno type="STC">Wing B193</idno>
+            <idno type="STC">Thomason E172_38</idno>
+            <idno type="STC">ESTC R14740</idno>
+            <idno type="EEBO-CITATION">99859728</idno>
+            <idno type="PROQUEST">99859728</idno>
+            <idno type="VID">111824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76414)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[38])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves from Rome, or A true relation of the conference which the Pope held with three of his chiefe cardinals, and a Dominican fryer, in his palace at Rome, against Bohemia, and these parts of England, Scotland, and Ireland. At which time a letter was forged from the Emperour to the King of France. And all the proceedings in their discourse, and the sharpe tants that the Pope received from his Ieaster at the same time : and the issue thereof. There were in this conference, 1 the Pope himselfe. 2 Burghesius. 3 Cæsario. 4 Romanio. 5 a Dominican fryer. 6 the Popes ieaster.</title>
+                  <title>Newes from Rome.</title>
+                  <author>T.B.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Henry Walker,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes to T. B.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Urban, --  Pope, 1568-1644 --  Early works to 1800.</term>
+               <term>Catholic Church and world politics --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111824:1"/>
+            <pb facs="tcp:111824:1" rendition="simple:additions"/>
+            <p>NEWES FROM ROME, OR A TRVE RELATION OF THE Conference which the POPE held with Three of his chiefe <hi>Cardinals,</hi> and a Dominican <hi>Pryer,</hi> in his Palace at <hi>Rome,</hi> againſt <hi>Bohemia,</hi> and theſe Parts of <hi>England, Scotland,</hi> and <hi>Ireland.</hi> At which time a <hi>Letter</hi> was forged from the <hi>Emperour</hi> to the King of <hi>France.</hi> And all the <hi>Proceedings</hi> in their Diſcourſe, and the ſharpe Tants that the <hi>Pope</hi> received from his <hi>Ieaſter</hi> at the ſame time: and the iſſue thereof.</p>
+            <p>There were in this Conferen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e,
+<list>
+                  <item>1 The Pope himſelf.</item>
+                  <item>2 Burgheſius.</item>
+                  <item>3 Caeſario.</item>
+                  <item>4 Romanio.</item>
+                  <item>5 A Domiuican Fryer.</item>
+                  <item>6 The Popes Ieaſter.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be ſold by <hi>Henry Walker,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111824:2"/>
+            <pb facs="tcp:111824:2"/>
+            <head>NEWES from ROME.</head>
+            <p>
+               <hi>The Pope ſitting in his Royall Palace with his Minion Cardinals ab<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> him, roſe up, and ſpake before them, as followeth.</hi>
+            </p>
+            <sp>
+               <p>I Know you all underſtand, as well as J, how all our projects are diſallowed, our Curſes derided, and our power ſleighted. What ſhall we do? People doe now begin to laugh at our <hi>Par<g ref="char:EOLhyphen"/>dons, Derges, Maſſes, Purgatories;</hi> onely now deſiring Salvation through <hi>Chriſt?</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>Caeſario anſwer'd.</hi>
+            </p>
+            <sp>
+               <p>Your <hi>Holineſſe,</hi> deare Father, hath related a ſad Story: yet why ſhould we feare?</p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Why <hi>Caeſario?</hi> Princes begin to caſt us off, let us look to that: let men live well, or ill, let Nations ſwell in warres, let them goe to Heaven or to Hell, it matters not; onely let our <hi>Supremacie be held up, and our Riches, Glory, and Delight maintained.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Caeſario.</speaker>
+               <p>Doe you conſider, holy Father, who revolt from you, who ſeeke not to you, except ſome <hi>ſcattered Lutherans, or Male-contents, or ſome penurious fooles; ſtirred up by Satan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Pope.</speaker>
+               <p>Few? Is it few, when whole Kingdomes have fallen from us, who care not for us, or our threats in <hi>England, Scotland, or Ire<g ref="char:EOLhyphen"/>land:</hi> are not our <hi>Legates,</hi> thruſt out of <hi>Bohemia,</hi> and our <hi>Prieſts</hi> made a prey? What can <hi>France</hi> doe againſt it ſelf, to advance us? <hi>The Netherlands</hi> triumph under their new Governours, and have caſt us oft! <hi>Curſed be that unluckie Geneva, that was the lea<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er of them all: Luther proclaimed all diſgrace againſt us. Indeed the Grecians compl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in that they are poore, and we enjoy their wealth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Caeſ.</speaker>
+               <p>If it be ſo, yet remember who you are, <hi>even Peters ſucceſ<g ref="char:EOLhyphen"/>ſor.</hi> Open the Church-treaſure, have not your Buls, your Curſes, with all thoſe male-dicting Relations, (which have in former Ages kept them in awe) as much force now? Then ſend them forth.</p>
+            </sp>
+            <p>
+               <hi>Dominick the Fryer ſtood up, and bowing himſelfe to the ground, spake as followeth.</hi>
+            </p>
+            <sp>
+               <p>With <hi>Reverence to your Holineſſe,</hi> be it ſpoken. Alas! alas! what will Curſes now doe, Buls or Threats, ſince they doe ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>offe at all?</p>
+            </sp>
+            <pb facs="tcp:111824:3"/>
+            <p> 
+               <hi>Burgheſius anſwering, ſaid.</hi>
+            </p>
+            <sp>
+               <p>
+                  <hi>Peter</hi> bids us to kill, and eat; let ſlaughter end the quarrell: let us entiſe the Prince to warre.</p>
+            </sp>
+            <p>
+               <hi>Dominick anſwered.</hi>
+            </p>
+            <sp>
+               <p>O ſay not ſo, this makes us odious.</p>
+            </sp>
+            <p>
+               <hi>Romanio gives his advice, and ſaid.</hi>
+            </p>
+            <sp>
+               <p>Let us like <hi>Macchabeus</hi> rouze up our courage with warlike <hi>Charles,</hi> both with Treaſure and Bleſſings to aſſiſt his warre againſt the <hi>Hereticks.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dominick.</speaker>
+               <p>This is more probable to doe us good, but there are ſuch diviſions in our owne Country unappeaſed, that wee know not how to reconcile them.</p>
+            </sp>
+            <p>
+               <hi>Then the Pope ſtanding up, in a great fume anſwered.</hi>
+            </p>
+            <sp>
+               <p>What ſhall we then let all alone, and ſit ſtill, and ſigh? Is not the <hi>Palatinate under us,</hi> their Country is deſtroyed; for they revolted. But conſider, that low-brought Family, doth now look for aid from BRITTAINE, both horſe, and foot, and infinite <hi>reliefe and treaſure.</hi> The LONDON <hi>Hereticks</hi> we heare are reſolved to disburſe both freely, and large Summes of money. But in our overthrow they re<g ref="char:EOLhyphen"/>joyce. And the heavy-headed <hi>Datch</hi> will now increaſe in wealth, as we decay in friends.</p>
+            </sp>
+            <p>
+               <hi>Caeſario in great compaſſion ſaid.</hi>
+            </p>
+            <sp>
+               <p>What the event may be our La<g ref="char:EOLhyphen"/>dy knowes. But your <hi>Holineſſe</hi> may do well, to let the Princes know you are diſpleaſed, and cauſe them to break off all leagues of peace.</p>
+            </sp>
+            <p>
+               <hi>Dominick anſwered.</hi>
+            </p>
+            <sp>
+               <p>You doe ſurely make paſſion the Author of advice, which ſhould not be in ſo great deſignes. A ſtronger League by peace, is more prevalent: then may we better husband our pur<g ref="char:EOLhyphen"/>poſe. Then may our trained Garriſons better march away, and we fill their places with ſupply: but let us doe this worke well.</p>
+            </sp>
+            <sp>
+               <speaker>Burgheſius.</speaker>
+               <p>Holy Sir, it may doe well to ſend your Legate to <hi>France:</hi> who may with eaſe, make that our owne.</p>
+            </sp>
+            <sp>
+               <speaker>Dominicke.</speaker>
+               <p>Are you a Conclaviſt, and know no more? How many thouſands in <hi>France,</hi> are ready to ſeale a <hi>Reformation</hi> with their bloud, and to revolt quite from us!</p>
+            </sp>
+            <p>
+               <hi>Then a Copy of a Letter was read, writ as from the Emperour, to the King of France: to the end they ſhould conſult of it. The ſubſtance whereof was this.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:111824:3"/>
+                  <opener>
+                     <salute>MOST NOBLE PRINCE:</salute>
+                  </opener>
+                  <p>
+                     <hi>MAY it pleaſe you to remember, how your Predeceſſor, Charles the Great, ſupported Rome, and reſcued the Imperiall Seat from the Goths and Saracens, then be not now unkind to Catholicks: But aſſiſt us with your Princely care. Let our neareneſſe in bloud, encreaſe our A<g ref="char:EOLhyphen"/>mity, and it will be your Glory before God, thus to helpe us againſt Bo<g ref="char:EOLhyphen"/>hemia, in the juſt revenge againſt Revolters. Conſider (worthy Prince) what may iſſue, in caſe the Turke ſhall underſtand our troubles at home, and ſo the Ottonman youth take advatage of our Diſtreſſes; and ſo wee repent, when it is to<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> late.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Burgheſius ſtood up when the Letter was read, and ſpake before them as followeth.</hi>
+            </p>
+            <sp>
+               <p>This was well urged, and may be a Preſident for all Princes, this will doe it. When <hi>Poland</hi> ſhall heare of this, <hi>Ruſſia, Denmarke:</hi> if the triple Crowned <hi>Brittaine</hi> knew of it! Surely this would worke for us amongſt them a l. If <hi>
+                     <g ref="char:V">Ʋ</g>enice, Savoy, Florence,</hi> and the reſt were taught this Leſſion: ſuch a league might be obtained, as would pro<g ref="char:EOLhyphen"/>duce opportunity for our <hi>Deſignes.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>Dominick anſwered.</hi>
+            </p>
+            <sp>
+               <p>I doe confeſſe, this may ſeeme a prevalent way: but if we take this courſe, J preſume, it will not doe us any good Doe not we all know, that though Princes were Tyrants in their owne Kingdomes; yet would they ever protect their Peace againſt forraine <hi>Enemies.</hi> The King of <hi>France</hi> hath warres enough to maintaine of his owne. And beſides, there is ſo great alliance in him to the <hi>Palſgrave;</hi> That kindneſſe will not ſuffer him to riſe againſt him: <hi>Great Brittaine</hi> by his Daughter, cals him Son, <hi>Denmarke, and Norway love him.</hi> The Prince of <hi>Orange</hi> is neere in bloud.</p>
+            </sp>
+            <p>
+               <hi>Romanio not permitting him to proceed any further, brake forth into an extreame paſſion, and ſaid.</hi>
+            </p>
+            <sp>
+               <pb facs="tcp:111824:4"/>
+               <p>Rather then abide in this reproach, I will goe to <hi>Turke &amp; Tar<g ref="char:EOLhyphen"/>tar.</hi> What! ſhall our Father and the Church, ſubmit to Traytorous <hi>Hereticks?</hi> No, no, rather ſtrangers ſhall defend our Cauſe, and un<g ref="char:EOLhyphen"/>derſtand our Canons; and then will I raiſe them up, to whip theſe drunken <hi>Sch<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſmaticks,</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>Dominick anſwer'd,</hi>
+            </p>
+            <sp>
+               <p>Come this is frenzy: this is neither policy, zeale, nor Religion: ſhall we becauſe the finger akes, therefore cut the whole hand off?</p>
+            </sp>
+            <p>
+               <hi>Then the Pope in a great earneſtneſſe spake.</hi>
+            </p>
+            <sp>
+               <p>Something muſt be done; ſhall we give way to all theſe T reaſons againſt us, and not adde a <hi>Cataplaſme</hi> to our <hi>Diſeaſe?</hi> Then may the whole Church be con<g ref="char:EOLhyphen"/>founded; ſhall we let <hi>Rome and Spaine</hi> be thus abuſed? No ſure, if God helpe no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, the Divell ſhall: if any Art or Skill will reach it.</p>
+            </sp>
+            <sp>
+               <speaker>Dominick.</speaker>
+               <p>O ſay not ſo: your <hi>Holineſſe</hi> may take a calmer courſe. Diſmiſſe the cruell <hi>Ieſuits</hi> from thence with all ſtrange projects, and abſtaine from <hi>Murthers,</hi> and <hi>Cruelties,</hi> and ſend holy, and <hi>Reverend Prieſts <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>broad;</hi> that may terrifie the hearts of the <hi>Auditors,</hi> by their <hi>Preaching, and zealous profeſſion,</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd living: Deare Sir, be ruled by me, and proceed in <hi>gentleneſſe.</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>Then the Pope called to his Ieaſter, and ſaid:</hi>
+            </p>
+            <sp>
+               <p>Come ſirrah, let me talke with thee; for none of theſe doe pleaſe my Humour; What Counſell wilt thou give me? <hi>How ſhall the Palatinate be ſetled under us?</hi>
+               </p>
+            </sp>
+            <p>
+               <hi>The Ieaſter anſwered with a great Laughter.</hi>
+            </p>
+            <sp>
+               <p>Who? I! you do me much wrong, to aske me about ſuch things, I have ſtranger <hi>newes</hi> to tell you. I muſt tell you of ſtrange Viſions, tending to a further matter, then either <hi>Prieſt or Cardinall dare relate. Pope.</hi> Very like, Come, ſpeake, what thou wilt; I will heare what thou ſay'ſt.</p>
+            </sp>
+            <p>
+               <hi>The Ieſter ſpake freely before them all as followeth.</hi>
+            </p>
+            <sp>
+               <p>You have ſtir'd up a Dog from his ſleep; and blame me not Sir, though I barke harſh! The writing on the wall, made <hi>Belſhazzars knees</hi> to ſhake; but I ſhall make thy heart to tremble. <hi>Nauclerus and Platina</hi> have writ againſt 22. <hi>Popes,</hi> who ſold their ſoules to <hi>Sa<g ref="char:EOLhyphen"/>tan</hi> by <hi>Magick spels,</hi> to worke wonders in the Land, <hi>murder, Sodomy Treaſon:</hi> aske your Cardinals<g ref="char:punc">▪</g> there is no ſin the Divell ever bred, but hath ſtood them in ſome ſtead. The ſinnes of <hi>Rome,</hi> are worſe then <hi>Sodome, Antichriſt</hi> muſt fall: not onely the Apoſtles, but the Sibyls have foretold <hi>Romes Rume.</hi> In a word, theſe ſtormes you have
+<pb facs="tcp:111824:4"/> raiſed, doe like a darkning Cloud, threaten fierce Raine.</p>
+            </sp>
+            <p>This moved the <hi>Pope</hi> very much, and being very angry, at what he had ſaid, he told the <hi>Ieaſter, as followeth.</hi>
+            </p>
+            <sp>
+               <p>Out upon thee, thou foule mouthed villaine, pull out his tongue, blaſt up his body with pow<g ref="char:EOLhyphen"/>der into the Ayre: that all his ſpeeches may periſh, and his words never be remembred.</p>
+            </sp>
+            <p>But the <hi>Ieaſter</hi> anſwer'd with boldneſſe, ſaying,</p>
+            <sp>
+               <p>yea marry that were a wiſe trick indeed: but take heed; for when <hi>Hidras</hi> head was cut off, ſeven others were immediately bred.</p>
+            </sp>
+            <p>Then the Pope roſe up out of his Chaire, as being much diſplea<g ref="char:EOLhyphen"/>ſed, to ſee the <hi>Ieaſter,</hi> ſo to deride him. And riſing up, he ſaid.</p>
+            <sp>
+               <p>What! dareſt thou ſpeake againe? Come let's away; ſhall wee become a reproach to all? Sirra, thou ſhalt ſmart for this.</p>
+            </sp>
+            <p>This poore fellow was ſo cruelly puniſhed afterwards, that to relate it, it would aske another volume, as big as this.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
